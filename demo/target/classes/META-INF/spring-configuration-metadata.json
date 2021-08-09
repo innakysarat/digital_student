@@ -36,6 +36,11 @@
       "name": "app.jwt.tokenPrefix",
       "type": "java.lang.String",
       "description": "Description for app.jwt.tokenPrefix."
+    },
+    {
+      "name": "application.jwt.tokenExpirationAfterDays",
+      "type": "java.lang.String",
+      "description": "Description for application.jwt.tokenExpirationAfterDays."
     }
   ],
   "hints": []
