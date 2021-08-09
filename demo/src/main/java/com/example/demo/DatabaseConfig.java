@@ -1,4 +1,4 @@
-package com.example.demo;
+/*package com.example.demo;
 
 import com.zaxxer.hikari.HikariConfig;
 import com.zaxxer.hikari.HikariDataSource;
@@ -21,4 +21,4 @@ public class DatabaseConfig {
         config.setJdbcUrl(dbUrl);
         return new HikariDataSource(config);
     }
-}
+}*/
