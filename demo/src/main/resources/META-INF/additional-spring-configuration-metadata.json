@@ -14,5 +14,10 @@
       "name": "app.jwt.secretKey",
       "type": "java.lang.String",
       "description": "Description for app.jwt.secretKey."
+    },
+    {
+      "name": "application.jwt.tokenExpirationAfterDays",
+      "type": "java.lang.String",
+      "description": "Description for application.jwt.tokenExpirationAfterDays."
     }
   ] }
